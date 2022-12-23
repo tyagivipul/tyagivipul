@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @tyagivipul
-- 👀 I’m interested in building data drven solutions
+- 👋 Hi, I’m Vipul
+- 👀 I’m interested in building data driven solutions
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on machine learning modelling
 - 📫 How to reach me : @tyagivipul74@gmail.com
